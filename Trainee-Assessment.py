@@ -48,7 +48,7 @@ print(median)
 variance = statistics.variance(frequencies)
 print("Variance:", variance)
 
-#Feature 7
+#Feature 5
 #Probability of Red
 total_reds = count["RED"]
 total_colours = len(colours)
